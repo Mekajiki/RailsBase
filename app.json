@@ -1,0 +1,6 @@
+{
+  "name": "RailsBase",
+  "scripts": {
+    "postdeploy": "bundle exec rake db:setup"
+  }
+}
